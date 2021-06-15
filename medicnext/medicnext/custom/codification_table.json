@@ -1,0 +1,31 @@
+{
+ "custom_fields": [],
+ "custom_perms": [],
+ "doctype": "Codification Table",
+ "property_setters": [
+  {
+   "_assign": null,
+   "_comments": null,
+   "_liked_by": null,
+   "_user_tags": null,
+   "creation": "2021-05-14 18:49:07.591274",
+   "default_value": null,
+   "doc_type": "Codification Table",
+   "docstatus": 0,
+   "doctype_or_field": "DocField",
+   "field_name": "code",
+   "idx": 0,
+   "modified": "2021-05-14 18:49:07.591274",
+   "modified_by": "Administrator",
+   "name": "Codification Table-code-label",
+   "owner": "Administrator",
+   "parent": null,
+   "parentfield": null,
+   "parenttype": null,
+   "property": "label",
+   "property_type": "Data",
+   "value": "C\u00f3digo CIE-10 "
+  }
+ ],
+ "sync_on_migrate": 1
+}

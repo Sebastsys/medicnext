@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include medicnext *.css
+recursive-include medicnext *.csv
+recursive-include medicnext *.html
+recursive-include medicnext *.ico
+recursive-include medicnext *.js
+recursive-include medicnext *.json
+recursive-include medicnext *.md
+recursive-include medicnext *.png
+recursive-include medicnext *.py
+recursive-include medicnext *.svg
+recursive-include medicnext *.txt
+recursive-exclude medicnext *.pyc
